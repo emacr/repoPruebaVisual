@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\ULATINA CURSOS\2024\1 cuatri\progra movil\pruebasP\prueba1\bin\Debug\prueba1.dll
+C:\Users\Usuario\Desktop\ULATINA CURSOS\2024\1 cuatri\progra movil\pruebasP\prueba1\bin\Debug\prueba1.pdb
+C:\Users\Usuario\Desktop\ULATINA CURSOS\2024\1 cuatri\progra movil\pruebasP\prueba1\obj\Debug\prueba1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ULATINA CURSOS\2024\1 cuatri\progra movil\pruebasP\prueba1\obj\Debug\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ULATINA CURSOS\2024\1 cuatri\progra movil\pruebasP\prueba1\obj\Debug\prueba1.dll
+C:\Users\Usuario\Desktop\ULATINA CURSOS\2024\1 cuatri\progra movil\pruebasP\prueba1\obj\Debug\prueba1.pdb
